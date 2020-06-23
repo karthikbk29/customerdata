@@ -1,7 +1,7 @@
 {
 "posts":[
 {"CustOrderNo": "WEB00000", "SubCustOrderNo": 1, "OMSCustOrderNo": 5209153, "OrderRequestorId": 19010,
-        "OrderRequestorType": "", "DeliveryType": "S", "CustomerFirstName": "NT", "CustomerLastName": "SAMY",
-        "CustId": 11223344, "CustPhoneNo": 912345678, "PickLoc": 0, "PickLocDescription": "", "PayInStore": "N"},
+        "OrderRequestorType": "", "DeliveryType": 'S', "CustomerFirstName": "NT", "CustomerLastName": "SAMY",
+        "CustId": 11223344, "CustPhoneNo": 912345678, "PickLoc": 0, "PickLocDescription": "", "PayInStore": 'N'},
 ]
 }
