@@ -1,10 +1,7 @@
 {
 "posts":[
-{CustOrderNo: 'WEB00000', SubCustOrderNo: 1, OMSCustOrderNo: 5209153, OrderRequestorId: 19010,
-        OrderRequestorType: '', DeliveryType: 'S', CustomerFirstName: 'NT', CustomerLastName: 'SAMY',
-        CustId: 11223344, CustPhoneNo: 912345678, PickLoc: 0, PickLocDescription: '', PayInStore: 'N'},
-{CustOrderNo: 'WEB00001', SubCustOrderNo: 2, OMSCustOrderNo: 5209154, OrderRequestorId: 19011,
-        OrderRequestorType: '', DeliveryType: 'S', CustomerFirstName: 'S', CustomerLastName: 'NIKHIL',
-        CustId: 11223345, CustPhoneNo: 9450612378, PickLoc: 1, PickLocDescription: '', PayInStore: 'N'}
+{"CustOrderNo": 'WEB00000', "SubCustOrderNo": 1, "OMSCustOrderNo": 5209153, "OrderRequestorId": 19010,
+        "OrderRequestorType": '', "DeliveryType": 'S', "CustomerFirstName": 'NT', "CustomerLastName": 'SAMY',
+        "CustId": 11223344, "CustPhoneNo": 912345678, "PickLoc": 0, "PickLocDescription": '', "PayInStore": 'N'},
 ]
 }
